@@ -1,5 +1,5 @@
 {
-  "name": "geekupvn/resume-parser-client",
+  "name": "cvreferral/resume-parser-client",
   "version": "0.1.2",
   "description": "A simple SOAP client for Resume WebService",
   "homepage": "https://github.com/geekupvn/parser-soap-client",
